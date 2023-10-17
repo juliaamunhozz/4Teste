@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    ju
+ <h1 class="titulo">Piano</h1>
 </body>
+<p1 class="texto">Página sobre coisas que gosto</p1>
 </html>
