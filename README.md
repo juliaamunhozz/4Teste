@@ -4,17 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adriana</title>
+    <title>Julia</title>
 </head>
 <body>
-    <h1 class="titulo">Adriana</h1>
-    <p class="text">Página criada puramente com o objetivo de falar da minha irmã</p>
+    <h1 class="titulo">Juju</h1>
+    <p class="text">Página criada puramente com o objetivo de falar sobre coisas que eu gosto:)</p>
     </p>
-    <P> Cidade que minha irmã vive:
+    <P> Gosto de música, mas meus instrumentos favoritos são:
     </P>
-    <p class="image"><a href="https://cdn.checkinweb.com.br/img/232/upload/images/pousada%20em%20prudent%C3%B3polis%20turismo%20paran%C3%A1%20%283%29.jpg">Prudentópolis</a></p>
-    <p>
-        Minha irmã é uma menininha adoravel de 5 anos de idade, ela tem cabelos loiros e  um lindíssimo olho azul.
-    </p> <img src="https://thumbs.dreamstime.com/z/retrato-detalhado-de-uma-linda-menina-loira-anos-idade-com-olhos-azuis-deitada-na-cama-vestido-cor-rosa-momento-relaxa%C3%A7%C3%A3o-178976108.jpg" width="500" height="500"
-</body>
-</html>
+    <p class="image"><a href="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-vector%2Fset-3d-piano-keyboard-perspective-260nw-2046412511.jpg&tbnid=R34roJacx_k8uM&vet=1&imgrefurl=https%3A%2F%2Fvectorportal.com%2Fpt%2Fvector%2Fteclado-de-piano-3d%2F15757&docid=w6sRyAscWU2BMM&w=390&h=280&hl=pt-br&source=sh%2Fx%2Fim%2Fm4%2F3"
