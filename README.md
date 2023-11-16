@@ -15,7 +15,4 @@
     <p class="image"><a href=(https://github.com/juliaamunhozz/4Teste/assets/148217150/5416f3d5-c1e8-4f05-b545-5a27c313da52)
 
     <p>
-        Minha irmã é uma menininha adoravel de 5 anos de idade, ela tem cabelos loiros e  um lindíssimo olho azul.
-    </p> <img src="https://thumbs.dreamstime.com/z/retrato-detalhado-de-uma-linda-menina-loira-anos-idade-com-olhos-azuis-deitada-na-cama-vestido-cor-rosa-momento-relaxa%C3%A7%C3%A3o-178976108.jpg" width="500" height="500"
-</body>
-</html>
+       
