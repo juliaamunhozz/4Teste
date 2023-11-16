@@ -9,9 +9,8 @@
 <body>
     <h1 class="titulo">Juju</h1>
     <p class="text">Página criada puramente com o objetivo de falar sobre coisas que eu gosto:)</p>
-    </p>
     <P> Gosto de música, mas meus instrumentos favoritos são: 
         <P> Piano e violão.
             <P> Gosto de passar tempo de quadidade com meus amigos e família
-    <P/1></P> <img src="![image](https://github.com/juliaamunhozz/4Teste/assets/148217150/a368591b-ce04-45d9-aa8b-871410197d42)
+    <P/1></P> <img src="https://assets.yousician.com/app/uploads/2019/07/19134728/how-to-play-piano-with-basic-chords.jpg.webp"
 "
