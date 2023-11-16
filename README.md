@@ -12,4 +12,5 @@
     <P> Gosto de música, mas meus instrumentos favoritos são: 
         <P> Piano e violão.
             <P> Gosto de passar tempo de quadidade com meus amigos e família
-    <P/1></P> <img src="https://www.normans.co.uk/cdn/shop/articles/AdobeStock_38208031-1_1ab7eed2-1643-4216-8ad4-06a3d62c1806_900x.jpg?v=1620932005"
+    <P/1></P> <img scr= /assets/images/electrocat.png(![image](https://github.com/juliaamunhozz/Trabalho-/assets/148217150/759d48a5-2fea-4e67-9224-8a8762efdb6c)
+
