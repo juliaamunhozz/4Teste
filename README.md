@@ -14,4 +14,4 @@
             <P> Gosto de passar tempo de quadidade com meus amigos e família
                 <P> Prefiro humanas a exatas, detalhe que um é muito mais fácil
 que o outro 
-    <P/1></P> <img scr="https://www.normans.co.uk/cdn/shop/articles/AdobeStock_38208031-1_1ab7eed2-1643-4216-8ad4-06a3d62c1806_900x.jpg?v=162093200"
+    <P/1></P> <img scr="![Captura de tela 2023-11-16 202344](https://github.com/juliaamunhozz/Trabalho-/assets/148217150/ec40ab6a-1e48-43cf-a283-bffa157317c7)"
