@@ -10,6 +10,7 @@
     <h1 class="titulo">Juju</h1>
     <p class="text">Página criada puramente com o objetivo de falar sobre coisas que eu gosto:)</p>
     </p>
-    <P> Gosto de música, mas meus instrumentos favoritos são:
-    </P>
-    <p class="image"><a href="https://www.google.com/search?q=gm1129332575&sca_esv=583128323&tbm=isch&sxsrf=AM9HkKlh8k6qg7kGtTnzTdDshRD45V-J0w:1700173408610&source=lnms&sa=X&ved=2ahUKEwj2ks7Ax8mCAxVurJUCHVBdC_oQ_AUoAXoECAEQAw&biw=1536&bih=707&dpr=1.25#imgrc=XJieon58E0GuBM"
+    <P> Gosto de música, mas meus instrumentos favoritos são: 
+        <P> Piano e violão.
+            <P> Gosto de passar tempo de quadidade com meus amigos e família
+    <P/1></P> <img src=https://www.istockphoto.com/br/foto/m%C3%BAsica-cl%C3%A1ssica-favorita-feche-acima-da-vista-das-m%C3%A3os-f%C3%AAmeas-delicadas-que-jogam-uma-gm1129332575-298281488
